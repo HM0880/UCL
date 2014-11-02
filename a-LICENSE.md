@@ -1,3 +1,9 @@
+In addition to the MIT License below, the following restrictions apply.
+You are free to distribute/modify any or all of the webpages under the "UCL"
+repository for **non-profit use only** as long as you include the entirety 
+of the following text:
+<pre><code>Original work by Hannah Miller at https://github.com/HM0880/UCL.</code></pre>
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Hannah Miller
@@ -19,4 +25,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
