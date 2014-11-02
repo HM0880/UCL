@@ -1,4 +1,5 @@
-# GitHub markdown basics [link](https://help.github.com/articles/markdown-basics/)
+# GitHub markdown basics
+[link](https://help.github.com/articles/markdown-basics/)
 
 ### Markdown summary
 - Headings: `# TEXT`, `## TEXT`, ... `###### TEXT`
@@ -11,4 +12,5 @@
 - Links: `[TEXT TO DISPLAY](LINK)`
 
 
-# Useful .md filetype previewer [link](http://tmpvar.com/markdown.html)
+# Useful .md filetype previewer
+[link](http://tmpvar.com/markdown.html)
