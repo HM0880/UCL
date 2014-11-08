@@ -32,3 +32,12 @@ text(-15,0.75*axesY,...
 # [Find (EDIT)](http://www.mathworks.com/help/matlab/matlab_prog/find-array-elements-that-meet-a-condition.html)
 
 [row,col] = find(splineX == correction(n,1));
+
+# Auto-dock all windows
+
+`set(0,'DefaultFigureWindowStyle','docked')`
+
+
+# No scientific formatting
+
+`format long g`
