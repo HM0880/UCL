@@ -34,20 +34,6 @@ Set main = ActiveWorkbook
 </code></pre>
 
 ### Sub-step A:
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
 
 
 
