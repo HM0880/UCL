@@ -41,3 +41,14 @@ text(-15,0.75*axesY,...
 # No scientific formatting
 
 `format long g`
+
+
+## Get computer name/hostname - File Exchange - MATLAB Central 
+http://www.mathworks.com/matlabcentral/fileexchange/16450-get-computer-name-hostname
+Just this works fine. 
+[~, name] = system(hostname');
+
+
+## char (MATLAB Functions) 
+http://nf.nci.org.au/facilities/software/Matlab/techdoc/ref/char.html
+List of the ASCII names for all characters
